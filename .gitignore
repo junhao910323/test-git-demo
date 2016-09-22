@@ -1,0 +1,3 @@
+data/*.txt
+train.log
+test.log
